@@ -9,7 +9,7 @@
 
 I’m a frontend & backend engineer who builds web apps and web games. I focus on AI-powered applications.
 
-- 🔭 I’m currently working on [Rebirth-RPG](https://github.com/TKtkGg/Rebirth-RPG-Game-)
+- 🔭 I’m currently working on [LIMIT-EXPLORE](https://github.com/TKtkGg/limit-explore) & [self-control](https://github.com/TKtkGg/self_control)
 - 🌱 I’m currently learning **java & postgreSQL**
 - 👨‍💻 All of my projects are available at [portfolio-flame-chi-96.vercel.app](https://portfolio-flame-chi-96.vercel.app)
 - 📫 How to reach me **miyamotoyuki0729@gmail.com**
@@ -18,7 +18,7 @@ I’m a frontend & backend engineer who builds web apps and web games. I focus o
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,java,spring,ts,react,nextjs,docker&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,django,java,spring,ts,react,nextjs&theme=dark" alt="Skills" />
   </a>
 </p>
 
