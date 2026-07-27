@@ -36,4 +36,8 @@ I’m a backend engineer who builds web apps and web games. I focus on Human & A
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TKtkGg&theme=dark)](https://git.io/streak-stats)
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TKtkGg&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TKtkGg&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TKtkGg&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TKtkGg&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TKtkGg&theme=nord_bright&utcOffset=9)
